@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkserendib=self.webpackChunkserendib||[]).push([[1403],{5745:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
