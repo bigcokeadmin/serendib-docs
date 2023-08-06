@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkserendib=self.webpackChunkserendib||[]).push([[4080],{3675:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/serendib-docs/blog/tags/hello","allTagsPath":"/serendib-docs/blog/tags","count":2}')}}]);

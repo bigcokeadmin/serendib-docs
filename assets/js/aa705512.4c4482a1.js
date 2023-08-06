@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkserendib=self.webpackChunkserendib||[]).push([[2180],{1458:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/serendib-docs/blog/tags/docusaurus","allTagsPath":"/serendib-docs/blog/tags","count":4}')}}]);
