@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkserendib=self.webpackChunkserendib||[]).push([[9979],{9267:e=>{e.exports=JSON.parse('{"permalink":"/serendib-docs/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
